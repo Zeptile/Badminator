@@ -1,5 +1,5 @@
-<h3 align="center"><b> Badminator 🏸 Azure Functions</b></h2>
-<div align="center">
+<h1><b> Badminator 🏸</b></h2>
+<div>
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/Zeptile/Badminator)](https://github.com/Zeptile/Badminator/issues)
