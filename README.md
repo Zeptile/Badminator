@@ -9,8 +9,8 @@
 
 ## 🚀 About <a name = "about"></a>
 
-I made this to annoy my friend, because he nevers remembers anything smh. <br>
-Essentially creates alarms that trigger at a specific time and send a discord webhook to remind said friend to do what was needed of him.
+Set of tools to help my friends and I find Badminton courts in Gatineau automatically.<br>
+Uses Headless chrome to login and check availibility, send notification to discord and so on.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
